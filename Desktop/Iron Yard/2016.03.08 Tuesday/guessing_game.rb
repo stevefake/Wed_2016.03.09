@@ -34,19 +34,6 @@ while count < 5
   end
 end
 
-#Ranges
-#Arrays
-#+ vs <<
-#.each
-
-#a = 1
-#b = 2
-#def double(num)
-#  return num * 2
-#end
-#puts double(a)
-#puts double(b)
-
 #Other requirements:
 #After 5 incorrect guesses, the program should tell you that you lose.
 #If guess same number twice, ask you if you're feeling all right
